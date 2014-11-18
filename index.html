@@ -2,6 +2,7 @@
 title: Acme Robotics
 ---
 {% include header.html %}
+<script src="/js/calendar.js"></script>
 <div class="centered">
 	<h1 class="big">Acme Robotics</h1>
 	<p>FIRST FTC Robotics Team #8367 from Grass Valley, CA</p>
@@ -9,9 +10,17 @@ title: Acme Robotics
 <hr/>
 <div class="left-aside">
 	<h2>Recent Posts</h2>
+	{% for post in site.posts %}
+		<div class="post">
+			<h3 class="title">{{ post.title }}</h3>
+			<p class="author">By {{ post.author }} on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
+			{{ post.excerpt }} 
+			<a href="{{ post.url }}">Read more...</a>
+		</div>
+	{% endfor %}
 </div>
 <div class="right-aside">
-	<h2>Right Aside</h2>
-	<p>Right Aside Content</p>
+	<h2>Placeholder</h2>
+	<p>Calendar? Short about us? Something else? Nothing?</p>
 </div>
 {% include footer.html %}
