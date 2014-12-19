@@ -1,0 +1,14 @@
+---
+title: Blog
+---
+{% include header.html %}
+<h1>Blog</h1>
+{% for post in site.posts %}
+	<div class="post">
+		<h3 class="title">{{ post.title }}</h3>
+		<p class="author">By {{ post.author }} on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
+		{{ post.excerpt }} 
+		<a href="{{ post.url }}">Read more...</a>
+	</div>
+{% endfor %}
+{% include footer.html %}

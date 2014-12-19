@@ -6,7 +6,7 @@ header h3, header nav { float: left; display: inline-block; }
 header nav { margin-left: 1%; padding-left: 1%; border-left: 1px solid #fff; width: 50%; }
 header nav ul { list-style-type: none; }
 header nav ul li { display: inline-block; float: left; margin-right: 3%; }
-header nav ul li a, header h3 { color: #fff; text-decoration: none; }
+header nav ul li a, header h3 { color: #fff !important; text-decoration: none; }
 header nav ul li a:hover { /* undecided style */ }
 hr { border: 1px solid #cdcdcd; width: 80%; margin: 2% auto; }
 #container { float:left; clear:left; width: 96%; padding: 2%; }
@@ -19,4 +19,5 @@ hr { border: 1px solid #cdcdcd; width: 80%; margin: 2% auto; }
 .right-aside { width: 30%; border-left: 1px solid #cdcdcd; }
 .post { margin: 2%; }
 .post p.author { color: #999; font-style: italic; }
-.post a, .post a:visited, .post a:hover, .post a:active { text-decoration: none; color: #3498db; }
+a, a:visited, a:hover, a:active { text-decoration: none; color: #3498db; }
+img, .full { width: 100%; max-width: 800px; }

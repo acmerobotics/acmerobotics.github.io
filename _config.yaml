@@ -1,3 +1,4 @@
 safe: true
 lsi: false
 title: "Acme Robotics"
+encoding: utf-8
