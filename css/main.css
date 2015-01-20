@@ -3,6 +3,7 @@
 body { font-family: "Open Sans"; width: 100%; overflow: auto; }
 header { width: 98%; float: left; clear: left; background-color: #e74c3c; padding: 1%; }
 header h3, header nav { float: left; display: inline-block; }
+header h3 a { color: #fff !important; }
 header nav { margin-left: 1%; padding-left: 1%; border-left: 1px solid #fff; width: 50%; }
 header nav ul { list-style-type: none; }
 header nav ul li { display: inline-block; float: left; margin-right: 3%; }
@@ -12,7 +13,7 @@ hr { border: 1px solid #cdcdcd; width: 80%; margin: 2% auto; }
 #container { float:left; clear:left; width: 96%; padding: 2%; }
 .big { font-size: 96px; font-weight: lighter; }
 .big + p { font-size: 18px; }
-.centered { margin: 0 auto; text-align: center; width: auto; } 
+.centered { margin: 0 auto; text-align: center; width: auto; }
 .left-aside, .right-aside { float:left; padding: 2%; }
 /* two asides' widths must sum to 88% */
 .left-aside { width: 58%; border-right: 1px solid #cdcdcd; }

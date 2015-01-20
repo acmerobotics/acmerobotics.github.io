@@ -7,7 +7,7 @@ title: Blog
 	<div class="post">
 		<h3 class="title">{{ post.title }}</h3>
 		<p class="author">By {{ post.author }} on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
-		{{ post.excerpt }} 
+		{{ post.excerpt }}
 		<a href="{{ post.url }}">Read more...</a>
 	</div>
 {% endfor %}
