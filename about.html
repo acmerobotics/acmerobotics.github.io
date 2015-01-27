@@ -3,13 +3,33 @@ title: About Us
 ---
 {% include header.html %}
 <h1>About Us</h1>
-<div class="centered">
-	<img class="full" src="/assets/team.jpg"/>
-</div>
-<!-- TODO Finish the team about by adding to the line(s) below -->
+<img class="half" src="/assets/team2.jpg"/>
 <p>We are FIRST FTC Team #8367 Acme Robotics. Compromised of four students attending
 	Nevada Union and Ghiodtti, we spend or time building a robot for the annual
 	<a href = "https://www.youtube.com/watch?v=ABmBxCwHV94">challenge</a>
 	put out by an organization called <a href = "http://www.usfirst.org/">FIRST</a>.
 </p>
+
+<h2>Members</h2>
+{% for member in site.data.members %}
+	<div class="bio">
+		<img src="{{ member.portrait }}">
+		<div>
+			<h3>{{ member.name }}</h3>
+			<p>{{ member.bio }}</p>
+		</div>
+	</div>
+	<hr>
+{% endfor %}
+<h2>Mentors</h2>
+{% for mentor in site.data.mentors %}
+	<div class="bio">
+		<img src="{{ mentor.portrait }}">
+		<div>
+			<h3>{{ mentor.name }}</h3>
+			<p>{{ mentor.bio }}</p>
+		</div>
+	</div>
+	<hr>
+{% endfor %}
 {% include footer.html %}
