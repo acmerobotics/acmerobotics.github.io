@@ -3,9 +3,11 @@ title: Intel Qualifier
 author: Ryan Brott
 layout: post
 ---
+The team had a great first qualifier of the season, especially considering we are a rookie team. 
+
 ![The team at the Intel Qualifier](/assets/team3.jpg)
 
-The team had a great first qualifier of the season, especially considering we are a rookie team. In the qualifying rounds, our robot went 3-3 and we were ranked 6th out of the 11 teams at the event. This was great considering Kellen, our driver, didn't have any driving experience prior to the event.
+In the qualifying rounds, our robot went 3-3 and we were ranked 6th out of the 11 teams at the event. This was great considering Kellen, our driver, didn't have any driving experience prior to the event.
 
 ![Alliance partners, Team #8909 FLCS Falcons](/assets/flcsfalcons.jpg)
 
