@@ -28,3 +28,4 @@ img, .full { width: 100%; /*max-width: 800px;*/ }
 .bio img { float:left; width: 300px; height: 300px; margin: 1%; }
 .bio img { border-radius: 150px; clear: left; }
 .bio div { margin: 1%; clear: right; }
+.logo { width: 400px !important; }
