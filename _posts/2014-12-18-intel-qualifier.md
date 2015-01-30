@@ -3,7 +3,7 @@ title: Intel Qualifier
 author: Ryan Brott
 layout: post
 ---
-The team had a great first qualifier of the season, especially considering we are a rookie team. 
+The team had a great first qualifier of the season, especially considering we are a rookie team. This was our first time ever participating. Not only was it incredibly fun but we learned a lot about our robot, its design and how to present our work to a group of judges.  
 
 ![The team at the Intel Qualifier](/assets/team3.jpg)
 
