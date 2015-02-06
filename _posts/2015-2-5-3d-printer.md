@@ -14,4 +14,4 @@ The printer is an EKOCYCLE Cube printer. We had to apply by writing and submitti
 
 It is incredible to be able to do what we love, and make cool plastic stuff as well as help to reuse the abundance of plastic waste we are producing.
 
-We cannot wait to see what we can do with this!! 
+We cannot wait to see what we can do with this!!
