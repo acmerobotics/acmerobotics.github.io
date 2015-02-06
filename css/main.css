@@ -18,6 +18,7 @@ hr { border: 1px solid #cdcdcd; width: 80%; margin: 2% auto; }
 /* two asides' widths must sum to 88% */
 .left-aside { width: 58%; border-right: 1px solid #cdcdcd; }
 .right-aside { width: 30%; border-left: 1px solid #cdcdcd; }
+.post { margin: 2%; }
 .post.full { margin: 2%; width: 50%; margin-left: auto !important; margin-right: auto !important; }
 .post p.author { color: #999; font-style: italic; }
 a, a:visited, a:hover, a:active { text-decoration: none; color: #3498db; }
