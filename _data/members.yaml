@@ -1,5 +1,5 @@
 - name: Charlotte Coffin
-  portrait: /assets/charlotte.jpg
+  portrait: /assets/portraits/charlotte.jpg
   bio: "Charlotte Coffin is a junior at Ghidotti Early College High School. During the season, Charlotte helps with whatever needs to be done,
 			including enhancing the website and helping with fundraising. Her favorite parts of the season are meeting new people and making new friends. In the
 			future, she aspires to be a software engineer and study computer science. In
@@ -8,7 +8,7 @@
 			camp at UCLA."
 
 - name: Ryan Brott
-  portrait: /assets/ryan.jpg
+  portrait: /assets/portraits/ryan.jpg
   bio: "Ryan Brott is a 14-year-old freshman attending Nevada Union High School. Ryan was anxious to create a competitive robotics team in the community.
   Consequently, he decided to found Acme Robotics, the first competitive robotics team in the area.
   He is the president of the STEM club at Nevada Union and has an extensive background in computer programming, web design, robotics, and CAD. He attended an iD tech camp at Stanford
@@ -18,7 +18,7 @@
   programming, playing chess, skiing, playing tennis, and playing the piano."
 
 - name: Kellen Bodine
-  portrait: /assets/kellen.PNG
+  portrait: /assets/portraits/kellen.PNG
   bio: "Kellen Bodine is a freshman at Nevada Union High School. Kellen spends his time in meetings building and modifying
   the robot. Kellen's really enjoys working hands-on with the robot and also driving the robot.
   Kellen wants to be a nautical engineer and, looks forward to learning more
@@ -26,7 +26,7 @@
   games."
 
 - name: Leo Zlimen
-  portrait: /assets/leo.jpg
+  portrait: /assets/portraits/leo.jpg
   bio: "Leo Zlimen is a 16-year-old sophomore at Nevada Union High School. He helps with whatever
   tasks need to be completed. This is his first year with
   FIRST, and he values the learning experience that it provides. Outside of robotics, Leo plays club

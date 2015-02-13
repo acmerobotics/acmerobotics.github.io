@@ -1,5 +1,5 @@
 - name: Nicholas Macy
-  portrait: /assets/nic.jpg
+  portrait: /assets/portraits/nic.jpg
   bio: "Nicholas Macy is a veteran of FTC. He was a member of Stark Industries team #7907, whose first and last year took them all the way to world championship.
   Nicholas, after experiencing the excitement of FTC, decided that he wanted to stay involved with the program by helping with coaching/mentoring another team.
   Nicholas attends Sierra College and studys mechatronics and technical theater.
@@ -7,5 +7,5 @@
   Nicholas plans to finish up at Sierra College and then attend a 4-year university in order to obtain an Electrical Engineering degree."
 
 - name: Mike Oitzman
-  portrait: /assets/mike.png
+  portrait: /assets/portraits/mike.png
   bio: None

@@ -6,11 +6,11 @@ layout: post
 
 We are super excited for our qualifier coming up this weekend! Our new iteration of Roadrunner is coming along nicely.
 
-![Kellen diligently working](/assets/kellenworking.jpg)
+![Kellen working on the robot.](/assets/kellen.JPG)
 
 Kellen has been working diligently on a new driving system that will allow more control for the robot and more traction. He has also been creating a acrylic shell to protect the robot.
 
-![Ryan coding away](/assets/ryanworking.jpg)
+![Ryan coding away.](/assets/intel_folsom/ryan.jpg)
 
 Ryan has been working diligently on the autonomous code. As a result, the robot can now consistently knock over the kickstand regardless of its position.
 
