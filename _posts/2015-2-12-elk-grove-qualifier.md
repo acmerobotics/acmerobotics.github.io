@@ -5,7 +5,7 @@ layout: post
 ---
 The team had a great time at the Elk Grove qualifier!
 
-![The team at the Elk Grove Qualifier](/assets/elk_grove/team.jpg)
+![The team at the Elk Grove Qualifier](/assets/elk_grove/team.JPG)
 
 The team started off the qualifying rounds strong with a win in our first match. However, this luck was short-lived; the team ended up losing the rest of the qualifying rounds (mostly due to penalties). After the rounds, we were ranked 14th.
 
