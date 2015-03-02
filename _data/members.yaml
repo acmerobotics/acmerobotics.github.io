@@ -1,37 +1,26 @@
 - name: Charlotte Coffin
-  portrait: /assets/charlotte.jpg
-  bio: "Charlotte Coffin is a junior at Ghidotti Early College High School. She has been
-			involved with FTC only since the beginning of the season, seeing as there was no local
-			team until recently. During the season, Charlotte helps with whatever needs to be done,
-			including coding for the robot and helping to design it. Her favorite parts of the season
-			thus far is the feeling of accomplishment when the team gets something done and she has
-			many fond memories of meetings with new people she now considers her friends. In the
-			future, she aspires to be a software engineer and to learn computer science. In
+  portrait: /assets/portraits/charlotte.jpg
+  bio: "Charlotte Coffin is a junior at Ghidotti Early College High School. During the season, Charlotte helps with whatever needs to be done,
+			including enhancing the website and helping with fundraising. Her favorite parts of the season are meeting new people and making new friends. In the
+			future, she aspires to be a software engineer and study computer science. In
 			Charlotte’s free time, she plays water polo, swims, spends time with her friends and
-			family and reads. Last summer she participated in a 2 week course in robotics at ID tech
-			camps in UCLA."
+			family, and reads. Last summer she participated in a two week course in robotics at an iD tech
+			camp at UCLA."
 
 - name: Ryan Brott
-  portrait: /assets/ryan.jpg
-  bio: "Ryan Brott is a 14-year-old freshman attending Nevada Union High School. This is his first
-  year competing with FIRST. He spends most of his time programming the robot, although he has also
-  spend time building the robot. When he is older, he wants to have a career in a computer-related
-  or engineering-related field. In his free time, he enjoys reading, programming, spending time with
-  friends, and playing the piano."
+  portrait: /assets/portraits/ryan.jpg
+  bio: "Ryan Brott is a 14-year-old freshman attending Nevada Union High School. Ryan was anxious to create a competitive robotics team in the community.
+  Consequently, he decided to found Acme Robotics, the first competitive robotics team in the area.
+  He is the president of the STEM club at Nevada Union and has an extensive background in computer programming, web design, robotics, and CAD. He attended an iD tech camp at Stanford
+  for robotics. He has also taken classes in chemistry, solar energy, and web design through the Academic Talent Search (ATS) program at CSUS.
+  He spends most of his time programming the robot, although he has also
+  spent time building the robot. Ryan's primary interests lie in computer science, in particular, artificial intelligence. In his free time, he enjoys reading,
+  programming, playing chess, skiing, playing tennis, and playing the piano."
 
 - name: Kellen Bodine
-  portrait: /assets/kellen.PNG
-  bio: "Kellen Bodine is a freshman at Nevada Union High School. This is his first year participating
-  in FIRST and he is having a great time. Kellen spends his time in meetings building and modifying
-  the robot. Thus far, this whole experience has been fantastic but his favorite part is the hands-on
-  aspects. Kellen wants to be a nautical engineer in the future and looks forward to learning more
-  about engineering. When he isnt engineering, Kellen enjoys archery, skiing, water sports and video
-  games. He is really looking forward to the rest of the season."
-
-- name: Leo Zlimen
-  portrait: /assets/leo.jpg
-  bio: "Leo Zlimen is a 16 year old sophomore at Nevada Union High School. He helps with whatever
-  is necessary for the robot, including documentation and driving. This is his  first year with
-  FIRST, and he values the learning experience that it provides. Outside of robotics, Leo plays club
-  and school volleyball, plays piano, is a part of Nevada Union's executive council, and enjoys
-  going to the gym."
+  portrait: /assets/portraits/kellen.PNG
+  bio: "Kellen Bodine is a freshman at Nevada Union High School. Kellen spends his time in meetings building and modifying
+  the robot. Kellen's really enjoys working hands-on with the robot and also driving the robot.
+  Kellen wants to be a nautical engineer and, looks forward to learning more
+  about engineering. In his free time, Kellen enjoys archery, skiing, water sports, and video
+  games."
