@@ -19,4 +19,4 @@ After that, our alliance won each of our matches in the semifinals and the final
 
 ![A picture with our alliance partners, team #8375 Vulcan Robotics.](/assets/elk_grove/vulcan.jpg)
 
-In addition to being part of the winning alliance, the team received the Judge's Award. We're really excited to move on to the NorCal championships! Go Acme!!
+In addition to being part of the winning alliance, the team received the Judge's Award. We're really excited to move on to the NorCal championships! Go ACME!!
