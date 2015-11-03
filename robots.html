@@ -1,0 +1,42 @@
+---
+title: Our Robots
+---
+{% include header.html %}
+
+<script src="js/select.js"></script>
+
+<h1>Our Robots</h1>
+<br>
+<select id='select'>
+	<option>Roadrunner 2</option>
+	<option>Roadrunner 1</option>
+</select>
+<br>
+<div id="Roadrunner 1" class="hidden">
+	<h2>Roadrunner 1</h2>
+	<div class="centered">
+		<img class="half" src="/assets/intel_folsom/roadrunner1.jpg"/>
+	</div>
+	<p>This is the first iteration of our robot, the Roadrunner. The Roadrunner 1 is very quick and agile, allowing it to move around the field quickly and avoid the opposing alliances' robots. Part of what makes the robot so fast is its small size and 2:1 gear ratio on the drive wheels. The robot also has a little hook in the back that allows it to latch onto rolling goals and drag them around the field.
+	<br/><br/>
+	The robot scores by dragging the rolling goals onto the ramp or into the designated parking zones. Once it has done that, it too parks itself atop a ramp and sits until the end of TeleOp. This may seem limited, but allows for scoring a maximum of 120 points in TeleOp. When you pair this with the points earned from driving off the ramp / knocking down the kickstand, that makes about 170 points.
+	<br/><br/>
+	The robot also has a foam core shell that keeps balls outside of the chassis (to avoid penalties) and provides a clean aesthetic look for the robot. </p>
+</div>
+
+<div id="Roadrunner 2" class="hidden">
+	<h2>Roadrunner 2</h2>
+	<div class="centered">
+		<img class="half" src="/assets/roadrunner2.jpg"/>
+	</div>
+	<p>
+	For the most part, the strategy of the Roadrunner 2 is similar to that of the Roadrunner 1; however, some changes were made to the robot's design.
+	To increase the robot's maneuverability, the team replaced the two omni wheels with another set of drive wheels, while still keeping the 2:1 gear ratio that made the robot so fast.
+	Also, to replace the Roadrunner 1's foam core shell, the team fashioned an acrylic shell that covered both the top and the bottom of the robot.
+	<br/><br/>
+	As far as software modification, the Roadrunner 2 featured a new TeleOp program. This program featured a background task that gradually revved up the motors in order to improve their lifespan.
+	The program also added a feature that allows the driver to reduce the maximum speed of the motors so that more precise movements of the robot can be made.
+	</p>
+</div>
+
+{% include footer.html %}
