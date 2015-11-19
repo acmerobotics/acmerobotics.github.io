@@ -31,5 +31,5 @@ img, .full { width: 100%; /*max-width: 800px;*/ }
 .bio div { margin: 1%; clear: right; height:300px; }
 .logo { width: 400px !important; }
 .hidden { display: none; }
-.left {float:left; width:40%; margin:3%;}
-.right {float:right; width:40%; margin:3%;}
+.left {float:left; width:40%; margin:3%; }
+.right {float:right; width:40%; margin:3%; }
