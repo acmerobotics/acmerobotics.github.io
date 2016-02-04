@@ -1,45 +1,35 @@
 - name: Charlotte Coffin
   portrait: /assets/portraits/charlotte.jpg
-  bio: "Charlotte is a founding member of ACME Robotics, and this is her second season on the team. She has experience with coding, web design, and outreach/fundraising. On the team, she works on the website, outreach, programming, and generally does what needs to be done."
+  bio: "Charlotte is a founding member of ACME Robotics, and this is her second season on the team. She has experience
+  with coding, web design, and outreach/fundraising. On the team, she works on the website, outreach, programming, and
+  generally does what needs to be done."
 
 - name: Ryan Brott
   portrait: /assets/portraits/ryan.jpg
-  bio: "Ryan Brott is a 14-year-old freshman attending Nevada Union High School. Ryan was anxious to create a competitive robotics team in the community.
-  Consequently, he decided to found ACME Robotics, the first competitive robotics team in the area.
-  He is the president of the STEM club at Nevada Union and has an extensive background in computer programming, web design, robotics, and CAD. He attended an iD tech camp at Stanford
-  for robotics. He has also taken classes in chemistry, solar energy, and web design through the Academic Talent Search (ATS) program at CSUS.
-  He spends most of his time programming the robot, although he has also
-  spent time building the robot. Ryan's primary interests lie in computer science, in particular, artificial intelligence. In his free time, he enjoys reading,
-  programming, playing chess, skiing, playing tennis, and playing the piano."
+  bio: "Ryan is the main programmer on the team and the founder of this team. He has an extensive background in
+  computer programming, web design, robotics, and CAD. On the team, he does most of the programming as well as
+  fundraising and team management."
 
 - name: Kellen Bodine
   portrait: /assets/portraits/kellen.PNG
-  bio: "Kellen Bodine is a freshman at Nevada Union High School. Kellen spends his time in meetings building and modifying
-  the robot. Kellen's really enjoys working hands-on with the robot and also driving the robot.
-  Kellen wants to be a nautical engineer and, looks forward to learning more
-  about engineering. In his free time, Kellen enjoys archery, skiing, water sports, and video
-  games."
-
-- name: Aiden Acton
-  portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Kellen is the main builder of the robot, and has been on the team since the beginning. He really enjoys working hands-on with the robot and also driving the robot. He has lots of experience in LEGO Robotics as well as all things physical."
 
 - name: Shawn Rashby
   portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Shawn is the youngest on the team, at only 13 years old. He is on the building team for the robot. He has always wanted to join a robotics team, and he is glad he is finally old enough to be part of the team."
 
 - name: Sam Longmire
   portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Sam is a new member this year. He has some experience coding as well as building. This season, he focused mainly on building and field creation as well as other things."
 
 - name: Ben Longmire
   portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Ben  joined the team this year. He has grown playing with LEGOs and building/designing lots of cool mechanisms.This season, he has worked mainly on the logo design and helped with the build process."
 
 - name: Kyle Panno
   portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Kyle became a member of the team this season. He has background in digital art and some experience coding. On the team, he designed and created the logo for our team, as well as helping out with whatever needed to be done."
 
 - name: Max Case
   portrait: /assets/portraits/placeholder.png
-  bio: ""
+  bio: "Max joined ACME this season. He has worked with legos and has experience soldering. Max helps with robot build/creation."
