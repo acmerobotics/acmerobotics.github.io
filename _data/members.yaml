@@ -33,3 +33,7 @@
 - name: Max Case
   portrait: /assets/portraits/placeholder.png
   bio: "Max joined ACME this season. He has worked with legos and has experience soldering. Max helps with robot build/creation."
+
+- name: Thea Pelayo
+  portrait: /assets/portraits/placeholder.png
+  bio: "Thea recently joined ACME this season. She has experience with Javascript, and is quickly learning HTML and CSS through our website. She is in the Girls Who Code club recently and is passionate about bringing technology to women  and to our small town. She is super excited about being part of this team."
