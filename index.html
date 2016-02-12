@@ -11,9 +11,37 @@ title: ACME Robotics
 </div>
 <hr/>
 <div class="left-aside">
-
-	<img src="/assets/theteam.jpg">
+	<a href="javascript:gotoshow()"><img src="/assets/slides/slide1.jpg" name="slide" border=0 ></a>
+	<script>
 	<!--
+
+	//configure the paths of the images, plus corresponding target links
+	slideshowimages("assets/slides/slide1.jpg","/assets/slides/slide2.jpg","/assets/slides/slide3.jpg","assets/slides/slide4.jpg","assets/slides/slide5.jpg","assets/slides/slide6.jpg")
+	slideshowlinks("slide1.jpg","slide2.jpg","slide3.jpg","slide4.jpg","slide5.jpg","slide5.jpg")
+
+	//configure the speed of the slideshow, in miliseconds
+	var slideshowspeed=5000
+
+	var whichlink=0
+	var whichimage=0
+	function slideit(){
+	if (!document.images)
+	return
+	document.images.slide.src=slideimages[whichimage].src
+	whichlink=whichimage
+	if (whichimage<slideimages.length-1)
+	whichimage++
+	else
+	whichimage=0
+	setTimeout("slideit()",slideshowspeed)
+	}
+	slideit()
+
+	//-->
+	</script>
+
+	<!--
+	<img src="/assets/theteam.jpg">
 	<h1>Recent Posts</h1>
 	{% for post in site.posts %}
 		<div class="post">
