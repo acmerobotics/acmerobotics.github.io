@@ -1,0 +1,5 @@
+.shape { position: relative; z-index: 5; margin: 0; width: 20px; background-position: center; background-repeat: no-repeat; background-size: 15px 50px; }
+.left { background-image: url(/assets/slide/left.svg); left: -20px; }
+.right { background-image: url(/assets/slide/right.svg); left: 20px; }
+.slideshow { width: 500px !important; }
+.slideshow img { width: 460px; }
