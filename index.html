@@ -2,8 +2,6 @@
 title: ACME Robotics
 ---
 {% include header.html %}
-<script src="js/scroller.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 
 <div class="centered">
 	<h1 class="big">ACME Robotics</h1>
@@ -11,6 +9,35 @@ title: ACME Robotics
 </div>
 <hr/>
 <div class="left-aside">
+	<a href="javascript:gotoshow()"><img src="/assets/theteam.jpg" name="slide" border=0 width=300 height=375></a>
+	<script>
+	<!--
+
+	//configure the paths of the images, plus corresponding target links
+	slideshowimages("/assets/theteam.jpg","/assets/printer.jpg","food3.jpg","food4.jpg","food5.jpg")
+	slideshowlinks("/assets/theteam.jpg","/assets/printer.jpg","http://food.epicurious.com/run/recipe/view?id=100975","http://food.epicurious.com/run/recipe/view?id=2876","http://food.epicurious.com/run/recipe/view?id=20010")
+
+	//configure the speed of the slideshow, in miliseconds
+	var slideshowspeed=2000
+
+	var whichlink=0
+	var whichimage=0
+	function slideit(){
+	if (!document.images)
+	return
+	document.images.slide.src=slideimages[whichimage].src
+	whichlink=whichimage
+	if (whichimage<slideimages.length-1)
+	whichimage++
+	else
+	whichimage=0
+	setTimeout("slideit()",slideshowspeed)
+	}
+	slideit()
+
+	//-->
+	</script>
+	<!--
 	<h1>Recent Posts</h1>
 	{% for post in site.posts %}
 		<div class="post">
@@ -20,7 +47,7 @@ title: ACME Robotics
 			<a href="{{ post.url }}">Read more...</a>
 		</div>
 	{% endfor %}
-	<a href="blog.html">All Posts</a>
+	<a href="blog.html">All Posts</a>-->
 </div>
 <div class="right-aside">
 	<h2>Contact Us</h2>
