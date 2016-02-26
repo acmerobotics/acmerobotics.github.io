@@ -1,8 +1,9 @@
-function SlideShow(el, imgList) {
+function SlideShow(el, imgList, timeGap) {
   var this_ = this;
   this.el = el;
   this.imgList = imgList;
   this.current = 0;
+  this.timeGap = timeGap || 0;
 
   // element properties
   if (el.className.indexOf("slideshow") == -1) {
@@ -33,10 +34,17 @@ function SlideShow(el, imgList) {
 
   this.update();
 
-  setInterval(function() {
-    this_.slideRight();
-  }, 5000);
+  this.resetCycle();
 }
+SlideShow.prototype.resetCycle = function() {
+  if (this.hasOwnProperty("id")) {
+    clearInterval(this.id);
+  }
+  this.id = setInterval(this.cycle.bind(this), this.timeGap);
+};
+SlideShow.prototype.cycle = function() {
+  this.slideRight();
+};
 SlideShow.prototype.update = function() {
   var this_ = this;
   var name = this.imgList[this.current];
@@ -50,8 +58,10 @@ SlideShow.prototype.update = function() {
 SlideShow.prototype.slideRight = function() {
   this.current = (this.current + 1) % this.imgList.length;
   this.update();
+  this.resetCycle();
 };
 SlideShow.prototype.slideLeft = function() {
   this.current = (this.current + this.imgList.length - 1) % this.imgList.length;
   this.update();
+  this.resetCycle();
 };

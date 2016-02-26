@@ -14,32 +14,6 @@
 
 			ga('create', 'UA-59410148-1', 'auto');
 			ga('send', 'pageview');
-
-
-
-			var slideimages=new Array()
-			var slidelinks=new Array()
-			function slideshowimages(){
-			for (i=0;i<slideshowimages.arguments.length;i++){
-			slideimages[i]=new Image()
-			slideimages[i].src=slideshowimages.arguments[i]
-			}
-			}
-
-			function slideshowlinks(){
-			for (i=0;i<slideshowlinks.arguments.length;i++)
-			slidelinks[i]=slideshowlinks.arguments[i]
-			}
-
-			function gotoshow(){
-			if (!window.winslide||winslide.closed)
-			winslide=window.open(slidelinks[whichlink])
-			else
-			winslide.location=slidelinks[whichlink]
-			winslide.focus()
-			}
-
-
 		</script>
 	</head>
 	<body>
@@ -52,7 +26,6 @@
 					<li><a href="/robots.html">Our Robots</a></li>
 					<li><a href="/blog.html">Blog</a></li>
 					<li><a href="/sponsors.html">Sponsors</a></li>
-					<li><a href="/slide.html">NEW! SLIDESHOW TEST</a></li>
 				</ul>
 			</nav>
 		</header>
