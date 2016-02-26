@@ -9,5 +9,5 @@ The Burlingame qualifier was quite a day! We woke up early, in order to arrive a
 Throughout the day, we did well. We won nearly all of our matches, and had a whole lot of fun.
 ![Robot in action on the playing field](/assets/burlingame/robot-on-field.JPG)
 By alliance selection time, we were ranked fourth. We got selected by team #8404 Quixilver. With them, we won first place overall in the competition.
- ![The winning alliance!](/assets/burlingame/quixilver.JPG)
- All in all it was a super fun and busy day. We learned a lot and can't wait for our next competition.
+![The winning alliance!](/assets/burlingame/quixilver.JPG)
+All in all it was a super fun and busy day. We learned a lot and can't wait for our next competition.
