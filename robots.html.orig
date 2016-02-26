@@ -13,7 +13,7 @@ All of the code for this <a href="https://github.com/acmerobotics/acmerobotics.g
 </p>
 <br>
 <select id='select'>
-	<!--<option>RES-Q - Roadrunner 1</option>-->
+	<option>RES-Q - Roadrunner 1</option>
 	<option>Cascade Effect - Roadrunner 2</option>
 	<option>Cascade Effect - Roadrunner 1</option>
 
@@ -21,17 +21,24 @@ All of the code for this <a href="https://github.com/acmerobotics/acmerobotics.g
 </select>
 <br>
 
+<<<<<<< HEAD
 <!--<div id="RES-Q Iteration 1">
+=======
+<div id="RES-Q - Roadrunner 1">
+>>>>>>> a90c7ce9763fa473c423eba913a0529c03d27a5f
 	<h2>The first Robot</h2>
 	<div class = "centered">
 		<img class = "half" src="/assets/Robot.JPG">
 	</div>
+<<<<<<< HEAD
+</div>-->
+=======
 	<p>
 		The focus of this robot is the ground. This iteration of Roadrunner has a front panel that aligns with thr ground
 		that allows it to push the floor debri around. It also has a scoop mechanism that is designed to pick up and score
 		the debri in the lowest goal reliably. This scoop is hand crafted with reinforced metal, and works very well. This
 		robot also has side peices that rotate outward in order to get the climbers down the zipline.
-	</p>
+</p>
 	<br>
 	<p>
 		The code for this robot is incredible well designed and structurally sound. We have a gyro sensor, a color
@@ -39,9 +46,9 @@ All of the code for this <a href="https://github.com/acmerobotics/acmerobotics.g
 		during autonomous. The color sensor allows the robot to sense the color the rescue beacon, and to press the
 		correct button during autonomous. The ODS sensor allows the robot to tell where the white line is, and line up exactky
  		with the rescue beacon. The ultrasonic sensors are used in tandem to calculate the distance from the wall, and the
-		angle the robot is facing in respect to the wall.
-	</p>
-</div>-->
+		angle the robot is facing in respect to the wall.</p>
+</div>
+>>>>>>> a90c7ce9763fa473c423eba913a0529c03d27a5f
 
 <div id="Cascade Effect - Roadrunner 1" class="hidden">
 	<h2>Roadrunner 1</h2>
