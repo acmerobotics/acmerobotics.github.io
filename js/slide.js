@@ -3,7 +3,7 @@ function SlideShow(el, imgList, timeGap) {
   this.el = el;
   this.imgList = imgList;
   this.current = 0;
-  this.timeGap = timeGap || 0;
+  this.timeGap = timeGap || 5000;
 
   // element properties
   if (el.className.indexOf("slideshow") == -1) {
